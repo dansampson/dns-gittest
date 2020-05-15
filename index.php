@@ -1,4 +1,4 @@
 <?php
 
 
-$strHeader      = "This is the header";
+$strHeader      = "This is the RAPID header";
